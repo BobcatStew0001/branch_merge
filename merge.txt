@@ -1,4 +1,5 @@
 test file for education
 lorem ipson 
-added these lines for test branch 
-test branching
+git remote add origin git@github.com:BobcatStew0001/branch_merge.git
+git branch -M main
+git push -u origin main
